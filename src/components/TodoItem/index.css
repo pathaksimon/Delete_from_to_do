@@ -1,0 +1,14 @@
+.lista {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bitta {
+  margin-right: 70px;
+  height: 20px;
+  width: 50px;
+}
+
+.paras {
+  margin-left: 100px;
+}
